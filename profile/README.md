@@ -22,4 +22,4 @@ Our latest contribution to the open-source community is **Iso-Vox**.
 
 ---
 
-[**🌐 Visit our Website**](https://jobix.ai) | [**💼 Enterprise Solutions**](https://jobix.ai) | [** Follow us on Linkedin**](https://www.linkedin.com/company/jobix-ai)
+[**🌐 Visit our Website**](https://jobix.ai) | [**💼 Enterprise Solutions**](https://jobix.ai) | [**Follow us on Linkedin**](https://www.linkedin.com/company/jobix-ai)
